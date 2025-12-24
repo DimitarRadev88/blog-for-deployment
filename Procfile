@@ -1,1 +1,1 @@
-web: gunicorn blog-for-deployment/main:app
+web: gunicorn main:app
